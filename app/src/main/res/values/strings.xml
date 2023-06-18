@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">English Words App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="learnedWordsList">ÖĞRENİLMİŞ KELİMELER LİSTESİ</string>
+    <string name="notLearnedWordsList">ÖĞRENİLMEMİŞ KELİMELER LİSTESİ</string>
+
+    <string name="learnedWord">ÖĞRENİLMİŞ KELİME TEKRARI</string>
+    <string name="notLearnedWord">KELİME ÖĞREN</string>
+
+    <string name="notFoundLearnedWord">Öğrenilmiş Kelime Bulunamadı</string>
+    <string name="notFoundNotLearnedWord">Tebrikler Bütün Kelimeler Öğrenildi</string>
+
+</resources>

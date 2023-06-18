@@ -1,0 +1,3934 @@
+[
+  {
+    "English": "A",
+    "Turkish": "bir"
+  },
+  {
+    "English": "ABILITY",
+    "Turkish": "kabiliyet, yetenek, beceri, güç, iktidar"
+  },
+  {
+    "English": "ABLE",
+    "Turkish": "yapabilmek, yapabilen"
+  },
+  {
+    "English": "ABOUT",
+    "Turkish": "hakkında, ilgili, konusunda"
+  },
+  {
+    "English": "ABOVE",
+    "Turkish": "yukarıda"
+  },
+  {
+    "English": "ACCEPT",
+    "Turkish": "kabul etmek"
+  },
+  {
+    "English": "ACCORDING",
+    "Turkish": "göre"
+  },
+  {
+    "English": "ACCOUNT",
+    "Turkish": "hesap, açıklama, banka hesabı"
+  },
+  {
+    "English": "ACROSS",
+    "Turkish": "karşısında"
+  },
+  {
+    "English": "ACT",
+    "Turkish": "hareket, eylem, davranış"
+  },
+  {
+    "English": "ACTION",
+    "Turkish": "eylem, etki, hareket"
+  },
+  {
+    "English": "ACTIVITY",
+    "Turkish": "faaliyet, etkinlik"
+  },
+  {
+    "English": "ACTUALLY",
+    "Turkish": "aslında, gerçekte"
+  },
+  {
+    "English": "ADD",
+    "Turkish": "eklemek, katmak, ilave etmek, toplamak, katmak"
+  },
+  {
+    "English": "ADDRESS",
+    "Turkish": "adres"
+  },
+  {
+    "English": "ADMINISTRATION",
+    "Turkish": "yönetim, idare"
+  },
+  {
+    "English": "ADMIT",
+    "Turkish": "kabul etmek"
+  },
+  {
+    "English": "ADULT",
+    "Turkish": "yetişkin, erişkin"
+  },
+  {
+    "English": "AFFECT",
+    "Turkish": "etkilemek, etki etmek"
+  },
+  {
+    "English": "AFTER",
+    "Turkish": "sonra, ardından, daha sonra"
+  },
+  {
+    "English": "AGAIN",
+    "Turkish": "tekrar, yeniden"
+  },
+  {
+    "English": "AGAINST",
+    "Turkish": "karşısında, karşı"
+  },
+  {
+    "English": "AGE",
+    "Turkish": "yaş"
+  },
+  {
+    "English": "AGENCY",
+    "Turkish": "ajans, acenta"
+  },
+  {
+    "English": "AGENT",
+    "Turkish": "ajan, temsilci, etken"
+  },
+  {
+    "English": "AGO",
+    "Turkish": "önce, evvel"
+  },
+  {
+    "English": "AGREE",
+    "Turkish": "anlaşmak, kabul etmek"
+  },
+  {
+    "English": "AGREEMENT",
+    "Turkish": "anlaşma, sözleşme"
+  },
+  {
+    "English": "AHEAD",
+    "Turkish": "önde, ileri"
+  },
+  {
+    "English": "AIR",
+    "Turkish": "hava"
+  },
+  {
+    "English": "ALL",
+    "Turkish": "herşey, tüm, bütün"
+  },
+  {
+    "English": "ALLOW",
+    "Turkish": "izin vermek"
+  },
+  {
+    "English": "ALMOST",
+    "Turkish": "neredeyse, hemen hemen"
+  },
+  {
+    "English": "ALONE",
+    "Turkish": "yalnız, tek başına"
+  },
+  {
+    "English": "ALONG",
+    "Turkish": "boyunca, yanı sıra"
+  },
+  {
+    "English": "ALREADY",
+    "Turkish": "zaten"
+  },
+  {
+    "English": "ALSO",
+    "Turkish": "ayrıca, hem de"
+  },
+  {
+    "English": "ALTHOUGH",
+    "Turkish": "rağmen, karşın , gerçi"
+  },
+  {
+    "English": "ALWAYS",
+    "Turkish": "her zaman, daima"
+  },
+  {
+    "English": "AMERICAN",
+    "Turkish": "amerikan"
+  },
+  {
+    "English": "AMONG",
+    "Turkish": "arasında, içinde"
+  },
+  {
+    "English": "AMOUNT",
+    "Turkish": "miktar, tutar, değer"
+  },
+  {
+    "English": "ANALYSIS",
+    "Turkish": "analiz, çözümleme"
+  },
+  {
+    "English": "AND",
+    "Turkish": "ve, ile"
+  },
+  {
+    "English": "ANIMAL",
+    "Turkish": "hayvan"
+  },
+  {
+    "English": "ANOTHER",
+    "Turkish": "bir diğeri, başka, farklı, ayrı"
+  },
+  {
+    "English": "ANSWER",
+    "Turkish": "cevap, yanıt"
+  },
+  {
+    "English": "ANY",
+    "Turkish": "herhangi, hiç, her"
+  },
+  {
+    "English": "ANYONE",
+    "Turkish": "kimse, herhangi biri, hiç kimse"
+  },
+  {
+    "English": "ANYTHING",
+    "Turkish": "bir şeyi herhangi bir şey, hiçbir şey"
+  },
+  {
+    "English": "APPEAR",
+    "Turkish": "görünmek, gözükmek"
+  },
+  {
+    "English": "APPLY",
+    "Turkish": "uygulamak, başvurmak"
+  },
+  {
+    "English": "APPROACH",
+    "Turkish": "yaklaşım, yaklaşma"
+  },
+  {
+    "English": "AREA",
+    "Turkish": "alan, bölge"
+  },
+  {
+    "English": "ARGUE",
+    "Turkish": "tartışmak"
+  },
+  {
+    "English": "ARM",
+    "Turkish": "kol, silah, dal"
+  },
+  {
+    "English": "AROUND",
+    "Turkish": "etrafında"
+  },
+  {
+    "English": "ARRIVE",
+    "Turkish": "varmak, ulaşmak"
+  },
+  {
+    "English": "ART",
+    "Turkish": "sanat"
+  },
+  {
+    "English": "ARTICLE",
+    "Turkish": "makale, madde, yazı"
+  },
+  {
+    "English": "ARTIST",
+    "Turkish": "sanatçı"
+  },
+  {
+    "English": "AS",
+    "Turkish": "gibi, olarak"
+  },
+  {
+    "English": "ASK",
+    "Turkish": "sormak, istemek"
+  },
+  {
+    "English": "ASSUME",
+    "Turkish": "varsaymak, farzetmek"
+  },
+  {
+    "English": "ATTACK",
+    "Turkish": "saldırı, atak"
+  },
+  {
+    "English": "ATTENTION",
+    "Turkish": "dikkat"
+  },
+  {
+    "English": "ATTORNEY",
+    "Turkish": "avukat, vekil"
+  },
+  {
+    "English": "AUDIENCE",
+    "Turkish": "seyirci, izleyici"
+  },
+  {
+    "English": "AUTHOR",
+    "Turkish": "yazar"
+  },
+  {
+    "English": "AUTHORITY",
+    "Turkish": "yetki, otorite"
+  },
+  {
+    "English": "AVAILABLE",
+    "Turkish": "müsait, mevcut, geçerli"
+  },
+  {
+    "English": "AVOID",
+    "Turkish": "önlemek, kaçınmak"
+  },
+  {
+    "English": "AWAY",
+    "Turkish": "uzak, uzakta"
+  },
+  {
+    "English": "BABY",
+    "Turkish": "bebek"
+  },
+  {
+    "English": "BACK",
+    "Turkish": "geri"
+  },
+  {
+    "English": "BAD",
+    "Turkish": "kötü"
+  },
+  {
+    "English": "BAG",
+    "Turkish": "sırt çantası"
+  },
+  {
+    "English": "BALL",
+    "Turkish": "top"
+  },
+  {
+    "English": "BANK",
+    "Turkish": "banka"
+  },
+  {
+    "English": "BAR",
+    "Turkish": "bar"
+  },
+  {
+    "English": "BASE",
+    "Turkish": "üs, temel, baz"
+  },
+  {
+    "English": "BE",
+    "Turkish": "olmak, var olmak"
+  },
+  {
+    "English": "BEAT",
+    "Turkish": "dövmek, yenmek"
+  },
+  {
+    "English": "BEAUTIFUL",
+    "Turkish": "güzel"
+  },
+  {
+    "English": "BECAUSE",
+    "Turkish": "çünkü"
+  },
+  {
+    "English": "BECOME",
+    "Turkish": "olmak, haline gelmek"
+  },
+  {
+    "English": "BED",
+    "Turkish": "yatak"
+  },
+  {
+    "English": "BEFORE",
+    "Turkish": "önce"
+  },
+  {
+    "English": "BEGIN",
+    "Turkish": "başlamak, başlatmak"
+  },
+  {
+    "English": "BEHAVIOR",
+    "Turkish": "davranış, tutum, hareket"
+  },
+  {
+    "English": "BEHIND",
+    "Turkish": "arkasında, gerisinde"
+  },
+  {
+    "English": "BELIEVE",
+    "Turkish": "inanmak, inancı olmak"
+  },
+  {
+    "English": "BENEFIT",
+    "Turkish": "yarar, fayda"
+  },
+  {
+    "English": "BEST",
+    "Turkish": "en iyi, en iyisi, en"
+  },
+  {
+    "English": "BETTER",
+    "Turkish": "daha iyi, daha güzel, daha iyi şekilde"
+  },
+  {
+    "English": "BETWEEN",
+    "Turkish": "arasında, aralarında"
+  },
+  {
+    "English": "BEYOND",
+    "Turkish": "ötesinde, öte"
+  },
+  {
+    "English": "BIG",
+    "Turkish": "büyük"
+  },
+  {
+    "English": "BILL",
+    "Turkish": "fatura"
+  },
+  {
+    "English": "BILLION",
+    "Turkish": "milyar"
+  },
+  {
+    "English": "BLACK",
+    "Turkish": "siyah"
+  },
+  {
+    "English": "BLOOD",
+    "Turkish": "kan"
+  },
+  {
+    "English": "BLUE",
+    "Turkish": "mavi"
+  },
+  {
+    "English": "BOARD",
+    "Turkish": "yazı tahtası"
+  },
+  {
+    "English": "BODY",
+    "Turkish": "vücut"
+  },
+  {
+    "English": "BOOK",
+    "Turkish": "kitap"
+  },
+  {
+    "English": "BORN",
+    "Turkish": "doğmuş, doğum"
+  },
+  {
+    "English": "BOTH",
+    "Turkish": "her ikisi de, ikisi de"
+  },
+  {
+    "English": "BOX",
+    "Turkish": "kutu"
+  },
+  {
+    "English": "BOY",
+    "Turkish": "erkek çocuk"
+  },
+  {
+    "English": "BREAK",
+    "Turkish": "kırılma"
+  },
+  {
+    "English": "BRING",
+    "Turkish": "getirmek"
+  },
+  {
+    "English": "BROTHER",
+    "Turkish": "erkek kardeş"
+  },
+  {
+    "English": "BUDGET",
+    "Turkish": "bütçe"
+  },
+  {
+    "English": "BUILD",
+    "Turkish": "inşa etmek"
+  },
+  {
+    "English": "BUILDING",
+    "Turkish": "bina"
+  },
+  {
+    "English": "BUSINESS",
+    "Turkish": "iş"
+  },
+  {
+    "English": "BUT",
+    "Turkish": "fakat, ama, lakin"
+  },
+  {
+    "English": "BUY",
+    "Turkish": "satın almak"
+  },
+  {
+    "English": "BY",
+    "Turkish": "tarafından, ile, göre, vasıtasıyla"
+  },
+  {
+    "English": "CALL",
+    "Turkish": "aramak"
+  },
+  {
+    "English": "CAMERA",
+    "Turkish": "kamera"
+  },
+  {
+    "English": "CAMPAIGN",
+    "Turkish": "kampanya"
+  },
+  {
+    "English": "CAN",
+    "Turkish": "yapabilmek"
+  },
+  {
+    "English": "CANCER",
+    "Turkish": "kanser"
+  },
+  {
+    "English": "CANDIDATE",
+    "Turkish": "aday"
+  },
+  {
+    "English": "CAPITAL",
+    "Turkish": "başkent"
+  },
+  {
+    "English": "CAR",
+    "Turkish": "araba"
+  },
+  {
+    "English": "CARD",
+    "Turkish": "kart"
+  },
+  {
+    "English": "CARE",
+    "Turkish": "bakım"
+  },
+  {
+    "English": "CAREER",
+    "Turkish": "kariyer"
+  },
+  {
+    "English": "CARRY",
+    "Turkish": "taşımak"
+  },
+  {
+    "English": "CASE",
+    "Turkish": "dava"
+  },
+  {
+    "English": "CATCH",
+    "Turkish": "yakalamak"
+  },
+  {
+    "English": "CAUSE",
+    "Turkish": "sebep olmak"
+  },
+  {
+    "English": "CELL",
+    "Turkish": "hücre"
+  },
+  {
+    "English": "CENTER",
+    "Turkish": "merkez"
+  },
+  {
+    "English": "CENTRAL",
+    "Turkish": "merkezi"
+  },
+  {
+    "English": "CENTURY",
+    "Turkish": "yüzyıl"
+  },
+  {
+    "English": "CERTAIN",
+    "Turkish": "belli"
+  },
+  {
+    "English": "CERTAINLY",
+    "Turkish": "kesinlikle"
+  },
+  {
+    "English": "CHAIR",
+    "Turkish": "sandalye"
+  },
+  {
+    "English": "CHALLENGE",
+    "Turkish": "meydan okuma"
+  },
+  {
+    "English": "CHANCE",
+    "Turkish": "şans"
+  },
+  {
+    "English": "CHANGE",
+    "Turkish": "değişiklik"
+  },
+  {
+    "English": "CHARACTER",
+    "Turkish": "karakter"
+  },
+  {
+    "English": "CHARGE",
+    "Turkish": "şarj etmek"
+  },
+  {
+    "English": "CHECK",
+    "Turkish": "kontrol"
+  },
+  {
+    "English": "CHILD",
+    "Turkish": "çocuk"
+  },
+  {
+    "English": "CHOICE",
+    "Turkish": "seçim"
+  },
+  {
+    "English": "CHOOSE",
+    "Turkish": "seçmek"
+  },
+  {
+    "English": "CHURCH",
+    "Turkish": "kilise"
+  },
+  {
+    "English": "CITIZEN",
+    "Turkish": "vatandaş"
+  },
+  {
+    "English": "CITY",
+    "Turkish": "şehir"
+  },
+  {
+    "English": "CIVIL",
+    "Turkish": "sivil"
+  },
+  {
+    "English": "CLAIM",
+    "Turkish": "iddia"
+  },
+  {
+    "English": "CLASS",
+    "Turkish": "sınıf"
+  },
+  {
+    "English": "CLEAR",
+    "Turkish": "açık"
+  },
+  {
+    "English": "CLEARLY",
+    "Turkish": "açıkça"
+  },
+  {
+    "English": "CLOSE",
+    "Turkish": "kapat"
+  },
+  {
+    "English": "COACH",
+    "Turkish": "koç"
+  },
+  {
+    "English": "COLD",
+    "Turkish": "soğuk"
+  },
+  {
+    "English": "COLLECTION",
+    "Turkish": "toplamak"
+  },
+  {
+    "English": "COLLEGE",
+    "Turkish": "kolej"
+  },
+  {
+    "English": "COLOR",
+    "Turkish": "renk"
+  },
+  {
+    "English": "COME",
+    "Turkish": "gelmek"
+  },
+  {
+    "English": "COMMERCIAL",
+    "Turkish": "ticari"
+  },
+  {
+    "English": "COMMON",
+    "Turkish": "ortak"
+  },
+  {
+    "English": "COMMUNITY",
+    "Turkish": "topluluk"
+  },
+  {
+    "English": "COMPANY",
+    "Turkish": "şirket"
+  },
+  {
+    "English": "COMPARE",
+    "Turkish": "karşılaştırmak"
+  },
+  {
+    "English": "COMPUTER",
+    "Turkish": "bilgisayar"
+  },
+  {
+    "English": "CONCERN",
+    "Turkish": "ilgilendirmek"
+  },
+  {
+    "English": "CONDITION",
+    "Turkish": "şart"
+  },
+  {
+    "English": "CONFERENCE",
+    "Turkish": "konferans"
+  },
+  {
+    "English": "CONGRESS",
+    "Turkish": "kongre"
+  },
+  {
+    "English": "CONSIDER",
+    "Turkish": "göz önüne almak"
+  },
+  {
+    "English": "CONSUMER",
+    "Turkish": "tüketici"
+  },
+  {
+    "English": "CONTAIN",
+    "Turkish": "içermek"
+  },
+  {
+    "English": "CONTINUE",
+    "Turkish": "devam et"
+  },
+  {
+    "English": "CONTROL",
+    "Turkish": "kontrol"
+  },
+  {
+    "English": "COST",
+    "Turkish": "maliyet"
+  },
+  {
+    "English": "COULD",
+    "Turkish": "yapabilir"
+  },
+  {
+    "English": "COUNTRY",
+    "Turkish": "ülke"
+  },
+  {
+    "English": "COUPLE",
+    "Turkish": "çift"
+  },
+  {
+    "English": "COURSE",
+    "Turkish": "ders"
+  },
+  {
+    "English": "COURT",
+    "Turkish": "mahkeme"
+  },
+  {
+    "English": "COVER",
+    "Turkish": "örtü"
+  },
+  {
+    "English": "CREATE",
+    "Turkish": "yaratmak"
+  },
+  {
+    "English": "CRIME",
+    "Turkish": "suç"
+  },
+  {
+    "English": "CULTURAL",
+    "Turkish": "kültürel"
+  },
+  {
+    "English": "CULTURE",
+    "Turkish": "kültür"
+  },
+  {
+    "English": "CUP",
+    "Turkish": "fincan"
+  },
+  {
+    "English": "CURRENT",
+    "Turkish": "şu andaki"
+  },
+  {
+    "English": "CUSTOMER",
+    "Turkish": "müşteri"
+  },
+  {
+    "English": "CUT",
+    "Turkish": "kesmek"
+  },
+  {
+    "English": "DARK",
+    "Turkish": "karanlık"
+  },
+  {
+    "English": "DATA",
+    "Turkish": "veri"
+  },
+  {
+    "English": "DAUGHTER",
+    "Turkish": "kız evlat"
+  },
+  {
+    "English": "DAY",
+    "Turkish": "gün"
+  },
+  {
+    "English": "DEAD",
+    "Turkish": "ölü"
+  },
+  {
+    "English": "DEAL",
+    "Turkish": "anlaşmak"
+  },
+  {
+    "English": "DEATH",
+    "Turkish": "ölüm"
+  },
+  {
+    "English": "DEBATE",
+    "Turkish": "tartışma"
+  },
+  {
+    "English": "DECADE",
+    "Turkish": "on yıl"
+  },
+  {
+    "English": "DECIDE",
+    "Turkish": "karar vermek"
+  },
+  {
+    "English": "DECISION",
+    "Turkish": "karar"
+  },
+  {
+    "English": "DEEP",
+    "Turkish": "derin"
+  },
+  {
+    "English": "DEFENSE",
+    "Turkish": "savunma"
+  },
+  {
+    "English": "DEGREE",
+    "Turkish": "derece"
+  },
+  {
+    "English": "DEMOCRAT",
+    "Turkish": "demokrat"
+  },
+  {
+    "English": "DEMOCRATIC",
+    "Turkish": "demokratik"
+  },
+  {
+    "English": "DESCRIBE",
+    "Turkish": "tanımlamak"
+  },
+  {
+    "English": "DESIGN",
+    "Turkish": "tasarım"
+  },
+  {
+    "English": "DESPITE",
+    "Turkish": "rağmen"
+  },
+  {
+    "English": "DETAIL",
+    "Turkish": "ayrıntı"
+  },
+  {
+    "English": "DETERMINE",
+    "Turkish": "belirlemek"
+  },
+  {
+    "English": "DEVELOP",
+    "Turkish": "geliştirmek"
+  },
+  {
+    "English": "DEVELOPMENT",
+    "Turkish": "kalkınma"
+  },
+  {
+    "English": "DIE",
+    "Turkish": "ölmek"
+  },
+  {
+    "English": "DIFFERENCE",
+    "Turkish": "fark"
+  },
+  {
+    "English": "DIFFERENT",
+    "Turkish": "farklı"
+  },
+  {
+    "English": "DIFFICULT",
+    "Turkish": "zor"
+  },
+  {
+    "English": "DINNER",
+    "Turkish": "akşam yemeği"
+  },
+  {
+    "English": "DIRECTION",
+    "Turkish": "yön"
+  },
+  {
+    "English": "DIRECTOR",
+    "Turkish": "yönetmen"
+  },
+  {
+    "English": "DISCOVER",
+    "Turkish": "keşfetmek"
+  },
+  {
+    "English": "DISCUSS",
+    "Turkish": "tartışmak"
+  },
+  {
+    "English": "DISCUSSION",
+    "Turkish": "tartışma"
+  },
+  {
+    "English": "DISEASE",
+    "Turkish": "hastalık"
+  },
+  {
+    "English": "DO",
+    "Turkish": "yapmak"
+  },
+  {
+    "English": "DOCTOR",
+    "Turkish": "doktor"
+  },
+  {
+    "English": "DOG",
+    "Turkish": "köpek"
+  },
+  {
+    "English": "DOOR",
+    "Turkish": "kapı"
+  },
+  {
+    "English": "DOWN",
+    "Turkish": "aşağı"
+  },
+  {
+    "English": "DRAW",
+    "Turkish": "çizmek"
+  },
+  {
+    "English": "DREAM",
+    "Turkish": "rüya"
+  },
+  {
+    "English": "DRIVE",
+    "Turkish": "sürmek"
+  },
+  {
+    "English": "DROP",
+    "Turkish": "düşürmek"
+  },
+  {
+    "English": "DRUG",
+    "Turkish": "uyuşturucu"
+  },
+  {
+    "English": "DURING",
+    "Turkish": "sırasında"
+  },
+  {
+    "English": "EACH",
+    "Turkish": "her"
+  },
+  {
+    "English": "EARLY",
+    "Turkish": "erken"
+  },
+  {
+    "English": "EAST",
+    "Turkish": "doğu"
+  },
+  {
+    "English": "EASY",
+    "Turkish": "kolay"
+  },
+  {
+    "English": "EAT",
+    "Turkish": "yemek"
+  },
+  {
+    "English": "ECONOMIC",
+    "Turkish": "ekonomik"
+  },
+  {
+    "English": "ECONOMY",
+    "Turkish": "ekonomi"
+  },
+  {
+    "English": "EDGE",
+    "Turkish": "kenar"
+  },
+  {
+    "English": "EDUCATION",
+    "Turkish": "eğitim"
+  },
+  {
+    "English": "EFFECT",
+    "Turkish": "efekt"
+  },
+  {
+    "English": "EFFORT",
+    "Turkish": "çaba"
+  },
+  {
+    "English": "EIGHT",
+    "Turkish": "sekiz"
+  },
+  {
+    "English": "EITHER",
+    "Turkish": "ya"
+  },
+  {
+    "English": "ELECTION",
+    "Turkish": "seçim"
+  },
+  {
+    "English": "ELSE",
+    "Turkish": "başka"
+  },
+  {
+    "English": "EMPLOYEE",
+    "Turkish": "çalışan"
+  },
+  {
+    "English": "END",
+    "Turkish": "son"
+  },
+  {
+    "English": "ENERGY",
+    "Turkish": "enerji"
+  },
+  {
+    "English": "ENJOY",
+    "Turkish": "keyif almak"
+  },
+  {
+    "English": "ENOUGH",
+    "Turkish": "yeterli"
+  },
+  {
+    "English": "ENTER",
+    "Turkish": "girmek"
+  },
+  {
+    "English": "ENTIRE",
+    "Turkish": "tamamı"
+  },
+  {
+    "English": "ENVIRONMENT",
+    "Turkish": "çevre"
+  },
+  {
+    "English": "ENVIRONMENTAL",
+    "Turkish": "çevreci"
+  },
+  {
+    "English": "ESPECIALLY",
+    "Turkish": "özellikle"
+  },
+  {
+    "English": "ESTABLISH",
+    "Turkish": "kurmak"
+  },
+  {
+    "English": "EVENING",
+    "Turkish": "akşam"
+  },
+  {
+    "English": "EVENT",
+    "Turkish": "olay"
+  },
+  {
+    "English": "EVER",
+    "Turkish": "hiç"
+  },
+  {
+    "English": "EVERY",
+    "Turkish": "her"
+  },
+  {
+    "English": "EVERYBODY",
+    "Turkish": "herkes"
+  },
+  {
+    "English": "EVERYONE",
+    "Turkish": "herkes"
+  },
+  {
+    "English": "EVERYTHING",
+    "Turkish": "her şey"
+  },
+  {
+    "English": "EVIDENCE",
+    "Turkish": "delil"
+  },
+  {
+    "English": "EXACTLY",
+    "Turkish": "kesinlikle"
+  },
+  {
+    "English": "EXAMPLE",
+    "Turkish": "örnek"
+  },
+  {
+    "English": "EXECUTIVE",
+    "Turkish": "yönetici"
+  },
+  {
+    "English": "EXIST",
+    "Turkish": "var olmak"
+  },
+  {
+    "English": "EXPECT",
+    "Turkish": "ummak"
+  },
+  {
+    "English": "EXPERIENCE",
+    "Turkish": "deneyim"
+  },
+  {
+    "English": "EXPERT",
+    "Turkish": "uzman"
+  },
+  {
+    "English": "EXPLAIN",
+    "Turkish": "açıklamak"
+  },
+  {
+    "English": "EYE",
+    "Turkish": "göz"
+  },
+  {
+    "English": "FACE",
+    "Turkish": "yüz"
+  },
+  {
+    "English": "FACT",
+    "Turkish": "gerçek"
+  },
+  {
+    "English": "FACTOR",
+    "Turkish": "faktör"
+  },
+  {
+    "English": "FAIL",
+    "Turkish": "başarısız"
+  },
+  {
+    "English": "FALL",
+    "Turkish": "düşmek"
+  },
+  {
+    "English": "FAMILY",
+    "Turkish": "aile"
+  },
+  {
+    "English": "FAR",
+    "Turkish": "uzak"
+  },
+  {
+    "English": "FAST",
+    "Turkish": "hızlı"
+  },
+  {
+    "English": "FATHER",
+    "Turkish": "baba"
+  },
+  {
+    "English": "FEAR",
+    "Turkish": "korku"
+  },
+  {
+    "English": "FEDERAL",
+    "Turkish": "federal"
+  },
+  {
+    "English": "FEEL",
+    "Turkish": "hissetmek"
+  },
+  {
+    "English": "FEELING",
+    "Turkish": "duygu"
+  },
+  {
+    "English": "FEW",
+    "Turkish": "az"
+  },
+  {
+    "English": "FIELD",
+    "Turkish": "alan"
+  },
+  {
+    "English": "FIGHT",
+    "Turkish": "kavga"
+  },
+  {
+    "English": "FIGURE",
+    "Turkish": "şekil"
+  },
+  {
+    "English": "FILL",
+    "Turkish": "doldurmak"
+  },
+  {
+    "English": "FILM",
+    "Turkish": "film"
+  },
+  {
+    "English": "FINAL",
+    "Turkish": "nihai"
+  },
+  {
+    "English": "FINALLY",
+    "Turkish": "en sonunda"
+  },
+  {
+    "English": "FINANCIAL",
+    "Turkish": "mali"
+  },
+  {
+    "English": "FIND",
+    "Turkish": "bulmak"
+  },
+  {
+    "English": "FINE",
+    "Turkish": "güzel"
+  },
+  {
+    "English": "FINGER",
+    "Turkish": "parmak"
+  },
+  {
+    "English": "FINISH",
+    "Turkish": "bitiş"
+  },
+  {
+    "English": "FIRE",
+    "Turkish": "ateş"
+  },
+  {
+    "English": "FIRM",
+    "Turkish": "firma"
+  },
+  {
+    "English": "FIRST",
+    "Turkish": "ilk"
+  },
+  {
+    "English": "FISH",
+    "Turkish": "balık"
+  },
+  {
+    "English": "FIVE",
+    "Turkish": "beş"
+  },
+  {
+    "English": "FLOOR",
+    "Turkish": "zemin"
+  },
+  {
+    "English": "FLY",
+    "Turkish": "uçmak"
+  },
+  {
+    "English": "FOCUS",
+    "Turkish": "odaklanmak"
+  },
+  {
+    "English": "FOLLOW",
+    "Turkish": "takip etmek"
+  },
+  {
+    "English": "FOOD",
+    "Turkish": "gıda"
+  },
+  {
+    "English": "FOOT",
+    "Turkish": "ayak"
+  },
+  {
+    "English": "FOR",
+    "Turkish": "için"
+  },
+  {
+    "English": "FORCE",
+    "Turkish": "kuvvet"
+  },
+  {
+    "English": "FOREIGN",
+    "Turkish": "yabancı"
+  },
+  {
+    "English": "FORGET",
+    "Turkish": "unutmak"
+  },
+  {
+    "English": "FORM",
+    "Turkish": "form"
+  },
+  {
+    "English": "FORMER",
+    "Turkish": "eski"
+  },
+  {
+    "English": "FORWARD",
+    "Turkish": "ıleri"
+  },
+  {
+    "English": "FOUR",
+    "Turkish": "dört"
+  },
+  {
+    "English": "FREE",
+    "Turkish": "ücretsiz"
+  },
+  {
+    "English": "FRIEND",
+    "Turkish": "arkadaş"
+  },
+  {
+    "English": "FRONT",
+    "Turkish": "ön"
+  },
+  {
+    "English": "FULL",
+    "Turkish": "tam"
+  },
+  {
+    "English": "FUND",
+    "Turkish": "fon, sermaye"
+  },
+  {
+    "English": "FUTURE",
+    "Turkish": "gelecek"
+  },
+  {
+    "English": "GAME",
+    "Turkish": "oyun"
+  },
+  {
+    "English": "GARDEN",
+    "Turkish": "bahçe"
+  },
+  {
+    "English": "GAS",
+    "Turkish": "gaz"
+  },
+  {
+    "English": "GENERAL",
+    "Turkish": "genel"
+  },
+  {
+    "English": "GENERATION",
+    "Turkish": "nesil"
+  },
+  {
+    "English": "GET",
+    "Turkish": "almak"
+  },
+  {
+    "English": "GIRL",
+    "Turkish": "kız"
+  },
+  {
+    "English": "GIVE",
+    "Turkish": "vermek"
+  },
+  {
+    "English": "GLASS",
+    "Turkish": "bardak"
+  },
+  {
+    "English": "GO",
+    "Turkish": "gitmek"
+  },
+  {
+    "English": "GOAL",
+    "Turkish": "hedef"
+  },
+  {
+    "English": "GOOD",
+    "Turkish": "iyi"
+  },
+  {
+    "English": "GOVERNMENT",
+    "Turkish": "hükümet"
+  },
+  {
+    "English": "GREAT",
+    "Turkish": "harika"
+  },
+  {
+    "English": "GREEN",
+    "Turkish": "yeşil"
+  },
+  {
+    "English": "GROUND",
+    "Turkish": "zemin"
+  },
+  {
+    "English": "GROUP",
+    "Turkish": "grup"
+  },
+  {
+    "English": "GROW",
+    "Turkish": "büyümek"
+  },
+  {
+    "English": "GROWTH",
+    "Turkish": "büyüme"
+  },
+  {
+    "English": "GUESS",
+    "Turkish": "tahmin"
+  },
+  {
+    "English": "GUN",
+    "Turkish": "silah"
+  },
+  {
+    "English": "GUY",
+    "Turkish": "adam"
+  },
+  {
+    "English": "HAIR",
+    "Turkish": "saç"
+  },
+  {
+    "English": "HALF",
+    "Turkish": "yarım"
+  },
+  {
+    "English": "HAND",
+    "Turkish": "el"
+  },
+  {
+    "English": "HANG",
+    "Turkish": "asmak"
+  },
+  {
+    "English": "HAPPEN",
+    "Turkish": "olmak"
+  },
+  {
+    "English": "HAPPY",
+    "Turkish": "mutlu"
+  },
+  {
+    "English": "HARD",
+    "Turkish": "zor"
+  },
+  {
+    "English": "HAVE",
+    "Turkish": "sahip olmak"
+  },
+  {
+    "English": "HE",
+    "Turkish": "o"
+  },
+  {
+    "English": "HEAD",
+    "Turkish": "kafa"
+  },
+  {
+    "English": "HEALTH",
+    "Turkish": "sağlık"
+  },
+  {
+    "English": "HEAR",
+    "Turkish": "duymak"
+  },
+  {
+    "English": "HEART",
+    "Turkish": "kalp"
+  },
+  {
+    "English": "HEAT",
+    "Turkish": "sıcaklık"
+  },
+  {
+    "English": "HEAVY",
+    "Turkish": "ağır"
+  },
+  {
+    "English": "HELP",
+    "Turkish": "yardım"
+  },
+  {
+    "English": "HER",
+    "Turkish": "ona"
+  },
+  {
+    "English": "HERE",
+    "Turkish": "işte"
+  },
+  {
+    "English": "HERSELF",
+    "Turkish": "kendini"
+  },
+  {
+    "English": "HIGH",
+    "Turkish": "yüksek"
+  },
+  {
+    "English": "HIM",
+    "Turkish": "onu"
+  },
+  {
+    "English": "HIMSELF",
+    "Turkish": "kendisi"
+  },
+  {
+    "English": "HIS",
+    "Turkish": "onun"
+  },
+  {
+    "English": "HISTORY",
+    "Turkish": "tarih"
+  },
+  {
+    "English": "HIT",
+    "Turkish": "çarptı"
+  },
+  {
+    "English": "HOLD",
+    "Turkish": "tutmak"
+  },
+  {
+    "English": "HOME",
+    "Turkish": "ev"
+  },
+  {
+    "English": "HOPE",
+    "Turkish": "umut"
+  },
+  {
+    "English": "HOSPITAL",
+    "Turkish": "hastane"
+  },
+  {
+    "English": "HOT",
+    "Turkish": "sıcak"
+  },
+  {
+    "English": "HOTEL",
+    "Turkish": "otel"
+  },
+  {
+    "English": "HOUR",
+    "Turkish": "saat"
+  },
+  {
+    "English": "HOUSE",
+    "Turkish": "ev"
+  },
+  {
+    "English": "HOW",
+    "Turkish": "nasıl"
+  },
+  {
+    "English": "HOWEVER",
+    "Turkish": "ancak"
+  },
+  {
+    "English": "HUGE",
+    "Turkish": "kocaman"
+  },
+  {
+    "English": "HUMAN",
+    "Turkish": "insan"
+  },
+  {
+    "English": "HUNDRED",
+    "Turkish": "yüz"
+  },
+  {
+    "English": "HUSBAND",
+    "Turkish": "koca"
+  },
+  {
+    "English": "IDEA",
+    "Turkish": "fikir"
+  },
+  {
+    "English": "IDENTIFY",
+    "Turkish": "tanımlamak"
+  },
+  {
+    "English": "IF",
+    "Turkish": "eğer"
+  },
+  {
+    "English": "IMAGE",
+    "Turkish": "ımge"
+  },
+  {
+    "English": "IMAGINE",
+    "Turkish": "hayal etmek"
+  },
+  {
+    "English": "IMPACT",
+    "Turkish": "etki"
+  },
+  {
+    "English": "IMPORTANT",
+    "Turkish": "önemli"
+  },
+  {
+    "English": "IMPROVE",
+    "Turkish": "geliştirmek"
+  },
+  {
+    "English": "IN",
+    "Turkish": "içinde"
+  },
+  {
+    "English": "INCLUDE",
+    "Turkish": "dahil etmek"
+  },
+  {
+    "English": "INCLUDING",
+    "Turkish": "dahil olmak üzere"
+  },
+  {
+    "English": "INCREASE",
+    "Turkish": "artırmak"
+  },
+  {
+    "English": "INDEED",
+    "Turkish": "aslında"
+  },
+  {
+    "English": "INDICATE",
+    "Turkish": "belirtmek"
+  },
+  {
+    "English": "INDIVIDUAL",
+    "Turkish": "bireysel"
+  },
+  {
+    "English": "INDUSTRY",
+    "Turkish": "endüstri"
+  },
+  {
+    "English": "INFORMATION",
+    "Turkish": "bilgi"
+  },
+  {
+    "English": "INSIDE",
+    "Turkish": "ıçeride"
+  },
+  {
+    "English": "INSTEAD",
+    "Turkish": "yerine"
+  },
+  {
+    "English": "INSTITUTION",
+    "Turkish": "kurum"
+  },
+  {
+    "English": "INTEREST",
+    "Turkish": "faiz"
+  },
+  {
+    "English": "INTERESTING",
+    "Turkish": "ilginç"
+  },
+  {
+    "English": "INTERNATIONAL",
+    "Turkish": "uluslararası"
+  },
+  {
+    "English": "INTERVIEW",
+    "Turkish": "röportaj"
+  },
+  {
+    "English": "INTO",
+    "Turkish": "ıçine"
+  },
+  {
+    "English": "INVESTMENT",
+    "Turkish": "yatırım"
+  },
+  {
+    "English": "INVOLVE",
+    "Turkish": "dahil etmek"
+  },
+  {
+    "English": "ISSUE",
+    "Turkish": "konu"
+  },
+  {
+    "English": "IT",
+    "Turkish": "o"
+  },
+  {
+    "English": "ITEM",
+    "Turkish": "öğe"
+  },
+  {
+    "English": "ITS",
+    "Turkish": "onun"
+  },
+  {
+    "English": "ITSELF",
+    "Turkish": "kendis"
+  },
+  {
+    "English": "JOB",
+    "Turkish": "iş"
+  },
+  {
+    "English": "JOIN",
+    "Turkish": "katılmak"
+  },
+  {
+    "English": "JUST",
+    "Turkish": "sadece"
+  },
+  {
+    "English": "KEEP",
+    "Turkish": "tutmak"
+  },
+  {
+    "English": "KEY",
+    "Turkish": "anahtar"
+  },
+  {
+    "English": "KID",
+    "Turkish": "çocuk"
+  },
+  {
+    "English": "KILL",
+    "Turkish": "öldürmek"
+  },
+  {
+    "English": "KIND",
+    "Turkish": "tür"
+  },
+  {
+    "English": "KITCHEN",
+    "Turkish": "mutfak"
+  },
+  {
+    "English": "KNOW",
+    "Turkish": "bilmek"
+  },
+  {
+    "English": "KNOWLEDGE",
+    "Turkish": "bilgi"
+  },
+  {
+    "English": "LAND",
+    "Turkish": "arazi"
+  },
+  {
+    "English": "LANGUAGE",
+    "Turkish": "dil"
+  },
+  {
+    "English": "LARGE",
+    "Turkish": "geniş"
+  },
+  {
+    "English": "LAST",
+    "Turkish": "son"
+  },
+  {
+    "English": "LATE",
+    "Turkish": "geç"
+  },
+  {
+    "English": "LATER",
+    "Turkish": "sonra"
+  },
+  {
+    "English": "LAUGH",
+    "Turkish": "gülmek"
+  },
+  {
+    "English": "LAW",
+    "Turkish": "hukuk"
+  },
+  {
+    "English": "LAWYER",
+    "Turkish": "avukat"
+  },
+  {
+    "English": "LAY",
+    "Turkish": "yatırmak"
+  },
+  {
+    "English": "LEAD",
+    "Turkish": "öncülük etmek"
+  },
+  {
+    "English": "LEADER",
+    "Turkish": "lider"
+  },
+  {
+    "English": "LEARN",
+    "Turkish": "öğrenmek"
+  },
+  {
+    "English": "LEAST",
+    "Turkish": "en az"
+  },
+  {
+    "English": "LEAVE",
+    "Turkish": "ayrılmak"
+  },
+  {
+    "English": "LEFT",
+    "Turkish": "ayrıldı"
+  },
+  {
+    "English": "LEG",
+    "Turkish": "bacak"
+  },
+  {
+    "English": "LEGAL",
+    "Turkish": "yasal"
+  },
+  {
+    "English": "LESS",
+    "Turkish": "az"
+  },
+  {
+    "English": "LET",
+    "Turkish": "ızin vermek"
+  },
+  {
+    "English": "LETTER",
+    "Turkish": "mektup"
+  },
+  {
+    "English": "LEVEL",
+    "Turkish": "seviye"
+  },
+  {
+    "English": "LIE",
+    "Turkish": "yalan"
+  },
+  {
+    "English": "LIFE",
+    "Turkish": "hayat"
+  },
+  {
+    "English": "LIGHT",
+    "Turkish": "ışık"
+  },
+  {
+    "English": "LIKE",
+    "Turkish": "sevmek"
+  },
+  {
+    "English": "LIKELY",
+    "Turkish": "muhtemel"
+  },
+  {
+    "English": "LINE",
+    "Turkish": "çizgi, sıra"
+  },
+  {
+    "English": "LIST",
+    "Turkish": "liste"
+  },
+  {
+    "English": "LISTEN",
+    "Turkish": "dinlemek"
+  },
+  {
+    "English": "LITTLE",
+    "Turkish": "küçük"
+  },
+  {
+    "English": "LIVE",
+    "Turkish": "canlı"
+  },
+  {
+    "English": "LOCAL",
+    "Turkish": "yerel"
+  },
+  {
+    "English": "LONG",
+    "Turkish": "uzun"
+  },
+  {
+    "English": "LOOK",
+    "Turkish": "bakmak"
+  },
+  {
+    "English": "LOSE",
+    "Turkish": "kaybetmek"
+  },
+  {
+    "English": "LOSS",
+    "Turkish": "kayıp"
+  },
+  {
+    "English": "LOT",
+    "Turkish": "çok"
+  },
+  {
+    "English": "LOVE",
+    "Turkish": "aşk"
+  },
+  {
+    "English": "LOW",
+    "Turkish": "düşük"
+  },
+  {
+    "English": "MACHINE",
+    "Turkish": "makine"
+  },
+  {
+    "English": "MAGAZINE",
+    "Turkish": "dergi"
+  },
+  {
+    "English": "MAIN",
+    "Turkish": "ana"
+  },
+  {
+    "English": "MAINTAIN",
+    "Turkish": "sürdürmek"
+  },
+  {
+    "English": "MAJORITY",
+    "Turkish": "çoğunluk"
+  },
+  {
+    "English": "MAKE",
+    "Turkish": "yapmak"
+  },
+  {
+    "English": "MAN",
+    "Turkish": "adam"
+  },
+  {
+    "English": "MANAGE",
+    "Turkish": "yönetmek"
+  },
+  {
+    "English": "MANAGEMENT",
+    "Turkish": "yönetim"
+  },
+  {
+    "English": "MANAGER",
+    "Turkish": "müdür"
+  },
+  {
+    "English": "MANY",
+    "Turkish": "çok"
+  },
+  {
+    "English": "MARKET",
+    "Turkish": "pazar"
+  },
+  {
+    "English": "MARRIAGE",
+    "Turkish": "evlilik"
+  },
+  {
+    "English": "MATERIAL",
+    "Turkish": "malzeme"
+  },
+  {
+    "English": "MATTER",
+    "Turkish": "madde"
+  },
+  {
+    "English": "MAY",
+    "Turkish": "mayıs ayı"
+  },
+  {
+    "English": "MAYBE",
+    "Turkish": "olabilir"
+  },
+  {
+    "English": "ME",
+    "Turkish": "ben mi"
+  },
+  {
+    "English": "MEAN",
+    "Turkish": "anlamına gelmek"
+  },
+  {
+    "English": "MEASURE",
+    "Turkish": "ölçmek"
+  },
+  {
+    "English": "MEDIA",
+    "Turkish": "medya"
+  },
+  {
+    "English": "MEDICAL",
+    "Turkish": "tıbbi"
+  },
+  {
+    "English": "MEET",
+    "Turkish": "buluşmak"
+  },
+  {
+    "English": "MEETING",
+    "Turkish": "toplantı"
+  },
+  {
+    "English": "MEMBER",
+    "Turkish": "üye"
+  },
+  {
+    "English": "MEMORY",
+    "Turkish": "hafıza"
+  },
+  {
+    "English": "MENTION",
+    "Turkish": "söz etmek"
+  },
+  {
+    "English": "MESSAGE",
+    "Turkish": "mesaj"
+  },
+  {
+    "English": "METHOD",
+    "Turkish": "yöntem"
+  },
+  {
+    "English": "MIDDLE",
+    "Turkish": "orta"
+  },
+  {
+    "English": "MIGHT",
+    "Turkish": "belki"
+  },
+  {
+    "English": "MILITARY",
+    "Turkish": "askeri"
+  },
+  {
+    "English": "MILLION",
+    "Turkish": "milyon"
+  },
+  {
+    "English": "MIND",
+    "Turkish": "zihin"
+  },
+  {
+    "English": "MINUTE",
+    "Turkish": "dakika"
+  },
+  {
+    "English": "MISS",
+    "Turkish": "özlemek"
+  },
+  {
+    "English": "MISSION",
+    "Turkish": "misyon"
+  },
+  {
+    "English": "MODEL",
+    "Turkish": "model"
+  },
+  {
+    "English": "MODERN",
+    "Turkish": "modern"
+  },
+  {
+    "English": "MOMENT",
+    "Turkish": "an"
+  },
+  {
+    "English": "MONEY",
+    "Turkish": "para"
+  },
+  {
+    "English": "MONTH",
+    "Turkish": "ay"
+  },
+  {
+    "English": "MORE",
+    "Turkish": "daha"
+  },
+  {
+    "English": "MORNING",
+    "Turkish": "sabah"
+  },
+  {
+    "English": "MOST",
+    "Turkish": "çoğu"
+  },
+  {
+    "English": "MOTHER",
+    "Turkish": "anne"
+  },
+  {
+    "English": "MOUTH",
+    "Turkish": "ağız"
+  },
+  {
+    "English": "MOVE",
+    "Turkish": "hareket etmek"
+  },
+  {
+    "English": "MOVEMENT",
+    "Turkish": "hareket"
+  },
+  {
+    "English": "MOVIE",
+    "Turkish": "film"
+  },
+  {
+    "English": "MR",
+    "Turkish": "bay"
+  },
+  {
+    "English": "MRS",
+    "Turkish": "bayan"
+  },
+  {
+    "English": "MUCH",
+    "Turkish": "çok"
+  },
+  {
+    "English": "MUSIC",
+    "Turkish": "müzik"
+  },
+  {
+    "English": "MUST",
+    "Turkish": "zorunlu"
+  },
+  {
+    "English": "MY",
+    "Turkish": "benim"
+  },
+  {
+    "English": "MYSELF",
+    "Turkish": "kendim"
+  },
+  {
+    "English": "NAME",
+    "Turkish": "ısim"
+  },
+  {
+    "English": "NATION",
+    "Turkish": "ulus"
+  },
+  {
+    "English": "NATIONAL",
+    "Turkish": "ulusal"
+  },
+  {
+    "English": "NATURAL",
+    "Turkish": "doğal"
+  },
+  {
+    "English": "NATURE",
+    "Turkish": "doğa"
+  },
+  {
+    "English": "NEAR",
+    "Turkish": "yakın"
+  },
+  {
+    "English": "NEARLY",
+    "Turkish": "neredeyse"
+  },
+  {
+    "English": "NECESSARY",
+    "Turkish": "gerekli"
+  },
+  {
+    "English": "NEED",
+    "Turkish": "ıhtiyaç"
+  },
+  {
+    "English": "NETWORK",
+    "Turkish": "ağ"
+  },
+  {
+    "English": "NEVER",
+    "Turkish": "asla"
+  },
+  {
+    "English": "NEW",
+    "Turkish": "yeni"
+  },
+  {
+    "English": "NEWS",
+    "Turkish": "haber"
+  },
+  {
+    "English": "NEWSPAPER",
+    "Turkish": "gazete"
+  },
+  {
+    "English": "NEXT",
+    "Turkish": "sonraki"
+  },
+  {
+    "English": "NICE",
+    "Turkish": "güzel"
+  },
+  {
+    "English": "NIGHT",
+    "Turkish": "gece"
+  },
+  {
+    "English": "NO",
+    "Turkish": "yok hayır"
+  },
+  {
+    "English": "NONE",
+    "Turkish": "yok"
+  },
+  {
+    "English": "NOR",
+    "Turkish": "ne de"
+  },
+  {
+    "English": "NORTH",
+    "Turkish": "kuzeyinde"
+  },
+  {
+    "English": "NOT",
+    "Turkish": "değil"
+  },
+  {
+    "English": "NOTE",
+    "Turkish": "not"
+  },
+  {
+    "English": "NOTHING",
+    "Turkish": "hiçbir şey"
+  },
+  {
+    "English": "NOTICE",
+    "Turkish": "ihbar"
+  },
+  {
+    "English": "NOW",
+    "Turkish": "şimdi"
+  },
+  {
+    "English": "NUMBER",
+    "Turkish": "numara"
+  },
+  {
+    "English": "OCCUR",
+    "Turkish": "meydana gelmek"
+  },
+  {
+    "English": "OFF",
+    "Turkish": "kapalı"
+  },
+  {
+    "English": "OFFER",
+    "Turkish": "teklif etmek"
+  },
+  {
+    "English": "OFFICE",
+    "Turkish": "ofis"
+  },
+  {
+    "English": "OFFICER",
+    "Turkish": "memur"
+  },
+  {
+    "English": "OFFICIAL",
+    "Turkish": "resmi"
+  },
+  {
+    "English": "OFTEN",
+    "Turkish": "sıklıkla"
+  },
+  {
+    "English": "OIL",
+    "Turkish": "yağ"
+  },
+  {
+    "English": "OK",
+    "Turkish": "tamam"
+  },
+  {
+    "English": "OLD",
+    "Turkish": "eski"
+  },
+  {
+    "English": "ON",
+    "Turkish": "üzerinde"
+  },
+  {
+    "English": "ONCE",
+    "Turkish": "bir zamanlar"
+  },
+  {
+    "English": "ONE",
+    "Turkish": "bir"
+  },
+  {
+    "English": "ONLY",
+    "Turkish": "bir tek"
+  },
+  {
+    "English": "ONTO",
+    "Turkish": "üstüne"
+  },
+  {
+    "English": "OPEN",
+    "Turkish": "açık"
+  },
+  {
+    "English": "OPERATION",
+    "Turkish": "ameliyat"
+  },
+  {
+    "English": "OPPORTUNITY",
+    "Turkish": "fırsat"
+  },
+  {
+    "English": "OPTION",
+    "Turkish": "seçenek"
+  },
+  {
+    "English": "OR",
+    "Turkish": "veya"
+  },
+  {
+    "English": "ORDER",
+    "Turkish": "sipariş"
+  },
+  {
+    "English": "ORGANIZATION",
+    "Turkish": "organizasyon"
+  },
+  {
+    "English": "OTHER",
+    "Turkish": "diğer"
+  },
+  {
+    "English": "OTHERS",
+    "Turkish": "diğerleri"
+  },
+  {
+    "English": "OUR",
+    "Turkish": "bizim"
+  },
+  {
+    "English": "OUT",
+    "Turkish": "dışarı"
+  },
+  {
+    "English": "OUTSIDE",
+    "Turkish": "dışında"
+  },
+  {
+    "English": "OVER",
+    "Turkish": "bitti"
+  },
+  {
+    "English": "OWN",
+    "Turkish": "kendi"
+  },
+  {
+    "English": "OWNER",
+    "Turkish": "sahip"
+  },
+  {
+    "English": "PAGE",
+    "Turkish": "sayfa"
+  },
+  {
+    "English": "PAIN",
+    "Turkish": "ağrı"
+  },
+  {
+    "English": "PAINTING",
+    "Turkish": "boyama"
+  },
+  {
+    "English": "PAPER",
+    "Turkish": "kağıt"
+  },
+  {
+    "English": "PARENT",
+    "Turkish": "ebeveyn"
+  },
+  {
+    "English": "PART",
+    "Turkish": "bölüm"
+  },
+  {
+    "English": "PARTICIPANT",
+    "Turkish": "katılımcı"
+  },
+  {
+    "English": "PARTICULAR",
+    "Turkish": "özel"
+  },
+  {
+    "English": "PARTICULARLY",
+    "Turkish": "özellikle"
+  },
+  {
+    "English": "PARTNER",
+    "Turkish": "ortak"
+  },
+  {
+    "English": "PARTY",
+    "Turkish": "parti"
+  },
+  {
+    "English": "PASS",
+    "Turkish": "geçmek"
+  },
+  {
+    "English": "PAST",
+    "Turkish": "geçmiş"
+  },
+  {
+    "English": "PATIENT",
+    "Turkish": "hasta"
+  },
+  {
+    "English": "PATTERN",
+    "Turkish": "desen"
+  },
+  {
+    "English": "PAY",
+    "Turkish": "ödemek"
+  },
+  {
+    "English": "PEACE",
+    "Turkish": "barış"
+  },
+  {
+    "English": "PEOPLE",
+    "Turkish": "insanlar"
+  },
+  {
+    "English": "PER",
+    "Turkish": "başına"
+  },
+  {
+    "English": "PERFORM",
+    "Turkish": "gerçekleştirmek"
+  },
+  {
+    "English": "PERFORMANCE",
+    "Turkish": "performans"
+  },
+  {
+    "English": "PERHAPS",
+    "Turkish": "belki"
+  },
+  {
+    "English": "PERIOD",
+    "Turkish": "dönem"
+  },
+  {
+    "English": "PERSON",
+    "Turkish": "kişi"
+  },
+  {
+    "English": "PERSONAL",
+    "Turkish": "kişisel"
+  },
+  {
+    "English": "PHONE",
+    "Turkish": "telefon"
+  },
+  {
+    "English": "PHYSICAL",
+    "Turkish": "fiziksel"
+  },
+  {
+    "English": "PICK",
+    "Turkish": "almak"
+  },
+  {
+    "English": "PICTURE",
+    "Turkish": "resim"
+  },
+  {
+    "English": "PIECE",
+    "Turkish": "parça"
+  },
+  {
+    "English": "PLACE",
+    "Turkish": "yer"
+  },
+  {
+    "English": "PLAN",
+    "Turkish": "plan"
+  },
+  {
+    "English": "PLANT",
+    "Turkish": "bitki"
+  },
+  {
+    "English": "PLAY",
+    "Turkish": "oynamak"
+  },
+  {
+    "English": "PLAYER",
+    "Turkish": "oyuncu"
+  },
+  {
+    "English": "POINT",
+    "Turkish": "puan"
+  },
+  {
+    "English": "POLICE",
+    "Turkish": "polis"
+  },
+  {
+    "English": "POLICY",
+    "Turkish": "politika"
+  },
+  {
+    "English": "POLITICAL",
+    "Turkish": "siyasi"
+  },
+  {
+    "English": "POLITICS",
+    "Turkish": "siyaset"
+  },
+  {
+    "English": "POOR",
+    "Turkish": "fakir"
+  },
+  {
+    "English": "POPULAR",
+    "Turkish": "popüler"
+  },
+  {
+    "English": "POPULATION",
+    "Turkish": "nüfus"
+  },
+  {
+    "English": "POSITION",
+    "Turkish": "pozisyon"
+  },
+  {
+    "English": "POSITIVE",
+    "Turkish": "pozitif"
+  },
+  {
+    "English": "POSSIBLE",
+    "Turkish": "mümkün"
+  },
+  {
+    "English": "POWER",
+    "Turkish": "güç"
+  },
+  {
+    "English": "PRACTICE",
+    "Turkish": "uygulama"
+  },
+  {
+    "English": "PREPARE",
+    "Turkish": "hazırlamak"
+  },
+  {
+    "English": "PRESENT",
+    "Turkish": "mevcut"
+  },
+  {
+    "English": "PRESIDENT",
+    "Turkish": "devlet başkanı"
+  },
+  {
+    "English": "PRESSURE",
+    "Turkish": "basınç"
+  },
+  {
+    "English": "PRETTY",
+    "Turkish": "güzel"
+  },
+  {
+    "English": "PREVENT",
+    "Turkish": "engel olmak"
+  },
+  {
+    "English": "PRICE",
+    "Turkish": "fiyat"
+  },
+  {
+    "English": "PRIVATE",
+    "Turkish": "özel"
+  },
+  {
+    "English": "PROBABLY",
+    "Turkish": "muhtemelen"
+  },
+  {
+    "English": "PROBLEM",
+    "Turkish": "sorun"
+  },
+  {
+    "English": "PROCESS",
+    "Turkish": "ışlem"
+  },
+  {
+    "English": "PRODUCE",
+    "Turkish": "üretmek"
+  },
+  {
+    "English": "PRODUCT",
+    "Turkish": "ürün"
+  },
+  {
+    "English": "PRODUCTION",
+    "Turkish": "üretim"
+  },
+  {
+    "English": "PROFESSIONAL",
+    "Turkish": "profesyonel"
+  },
+  {
+    "English": "PROFESSOR",
+    "Turkish": "profesör"
+  },
+  {
+    "English": "PROGRAM",
+    "Turkish": "program"
+  },
+  {
+    "English": "PROJECT",
+    "Turkish": "proje"
+  },
+  {
+    "English": "PROPERTY",
+    "Turkish": "gayrimenkul"
+  },
+  {
+    "English": "PROTECT",
+    "Turkish": "korumak"
+  },
+  {
+    "English": "PROVE",
+    "Turkish": "kanıtlamak"
+  },
+  {
+    "English": "PROVIDE",
+    "Turkish": "sağlamak"
+  },
+  {
+    "English": "PUBLIC",
+    "Turkish": "halka açık"
+  },
+  {
+    "English": "PULL",
+    "Turkish": "çek"
+  },
+  {
+    "English": "PURPOSE",
+    "Turkish": "amaç"
+  },
+  {
+    "English": "PUSH",
+    "Turkish": "ıtmek"
+  },
+  {
+    "English": "PUT",
+    "Turkish": "koymak"
+  },
+  {
+    "English": "QUALITY",
+    "Turkish": "kalite"
+  },
+  {
+    "English": "QUESTION",
+    "Turkish": "soru"
+  },
+  {
+    "English": "QUICKLY",
+    "Turkish": "hızlı bir şekilde"
+  },
+  {
+    "English": "QUITE",
+    "Turkish": "oldukça"
+  },
+  {
+    "English": "RACE",
+    "Turkish": "yarış"
+  },
+  {
+    "English": "RADIO",
+    "Turkish": "radyo"
+  },
+  {
+    "English": "RAISE",
+    "Turkish": "yükseltmek"
+  },
+  {
+    "English": "RANGE",
+    "Turkish": "menzil"
+  },
+  {
+    "English": "RATE",
+    "Turkish": "oran"
+  },
+  {
+    "English": "RATHER",
+    "Turkish": "daha doğrusu"
+  },
+  {
+    "English": "REACH",
+    "Turkish": "ulaşmak"
+  },
+  {
+    "English": "READ",
+    "Turkish": "okumak"
+  },
+  {
+    "English": "READY",
+    "Turkish": "hazır"
+  },
+  {
+    "English": "REAL",
+    "Turkish": "gerçek"
+  },
+  {
+    "English": "REALITY",
+    "Turkish": "gerçeklik"
+  },
+  {
+    "English": "REALIZE",
+    "Turkish": "farketmek"
+  },
+  {
+    "English": "REALLY",
+    "Turkish": "gerçekten mi"
+  },
+  {
+    "English": "REASON",
+    "Turkish": "neden"
+  },
+  {
+    "English": "RECEIVE",
+    "Turkish": "teslim almak"
+  },
+  {
+    "English": "RECENT",
+    "Turkish": "son"
+  },
+  {
+    "English": "RECENTLY",
+    "Turkish": "son günlerde"
+  },
+  {
+    "English": "RECOGNIZE",
+    "Turkish": "tanımak"
+  },
+  {
+    "English": "RECORD",
+    "Turkish": "kayıt"
+  },
+  {
+    "English": "RED",
+    "Turkish": "kırmızı"
+  },
+  {
+    "English": "REDUCE",
+    "Turkish": "azaltmak"
+  },
+  {
+    "English": "REFLECT",
+    "Turkish": "yansıtmak"
+  },
+  {
+    "English": "REGION",
+    "Turkish": "bölge"
+  },
+  {
+    "English": "RELATE",
+    "Turkish": "ılişki kurmak"
+  },
+  {
+    "English": "RELATIONSHIP",
+    "Turkish": "ılişki"
+  },
+  {
+    "English": "RELIGIOUS",
+    "Turkish": "dini"
+  },
+  {
+    "English": "REMAIN",
+    "Turkish": "kalmak"
+  },
+  {
+    "English": "REMEMBER",
+    "Turkish": "hatırlamak"
+  },
+  {
+    "English": "REMOVE",
+    "Turkish": "kaldırmak"
+  },
+  {
+    "English": "REPORT",
+    "Turkish": "rapor"
+  },
+  {
+    "English": "REPRESENT",
+    "Turkish": "temsil etmek"
+  },
+  {
+    "English": "REPUBLICAN",
+    "Turkish": "cumhuriyetçi"
+  },
+  {
+    "English": "REQUIRE",
+    "Turkish": "gerektirir"
+  },
+  {
+    "English": "RESEARCH",
+    "Turkish": "araştırma"
+  },
+  {
+    "English": "RESOURCE",
+    "Turkish": "kaynak"
+  },
+  {
+    "English": "RESPOND",
+    "Turkish": "yanıtlamak"
+  },
+  {
+    "English": "RESPONSE",
+    "Turkish": "cevap"
+  },
+  {
+    "English": "RESPONSIBILITY",
+    "Turkish": "sorumluluk"
+  },
+  {
+    "English": "REST",
+    "Turkish": "dinlenme"
+  },
+  {
+    "English": "RESULT",
+    "Turkish": "sonuç"
+  },
+  {
+    "English": "RETURN",
+    "Turkish": "dönüş"
+  },
+  {
+    "English": "REVEAL",
+    "Turkish": "ortaya çıkartmak"
+  },
+  {
+    "English": "RICH",
+    "Turkish": "zengin"
+  },
+  {
+    "English": "RIGHT",
+    "Turkish": "sağ"
+  },
+  {
+    "English": "RISE",
+    "Turkish": "yükselmek"
+  },
+  {
+    "English": "RISK",
+    "Turkish": "risk"
+  },
+  {
+    "English": "ROAD",
+    "Turkish": "yol"
+  },
+  {
+    "English": "ROCK",
+    "Turkish": "kaya"
+  },
+  {
+    "English": "ROLE",
+    "Turkish": "rol"
+  },
+  {
+    "English": "ROOM",
+    "Turkish": "oda"
+  },
+  {
+    "English": "RULE",
+    "Turkish": "kural"
+  },
+  {
+    "English": "RUN",
+    "Turkish": "koşmak"
+  },
+  {
+    "English": "SAFE",
+    "Turkish": "güvenli"
+  },
+  {
+    "English": "SAME",
+    "Turkish": "aynı"
+  },
+  {
+    "English": "SAVE",
+    "Turkish": "kayıt etmek"
+  },
+  {
+    "English": "SAY",
+    "Turkish": "söylemek"
+  },
+  {
+    "English": "SCENE",
+    "Turkish": "faliyet alani, sahne"
+  },
+  {
+    "English": "SCHOOL",
+    "Turkish": "okul"
+  },
+  {
+    "English": "SCIENCE",
+    "Turkish": "bilim"
+  },
+  {
+    "English": "SCIENTIST",
+    "Turkish": "bilim insanı"
+  },
+  {
+    "English": "SCORE",
+    "Turkish": "skor"
+  },
+  {
+    "English": "SEA",
+    "Turkish": "deniz"
+  },
+  {
+    "English": "SEASON",
+    "Turkish": "sezon"
+  },
+  {
+    "English": "SEAT",
+    "Turkish": "koltuk"
+  },
+  {
+    "English": "SECOND",
+    "Turkish": "ikinci"
+  },
+  {
+    "English": "SECTION",
+    "Turkish": "bölüm"
+  },
+  {
+    "English": "SECURITY",
+    "Turkish": "güvenlik"
+  },
+  {
+    "English": "SEE",
+    "Turkish": "görmek"
+  },
+  {
+    "English": "SEEK",
+    "Turkish": "aramak"
+  },
+  {
+    "English": "SEEM",
+    "Turkish": "görünmek"
+  },
+  {
+    "English": "SELL",
+    "Turkish": "satmak"
+  },
+  {
+    "English": "SEND",
+    "Turkish": "göndermek"
+  },
+  {
+    "English": "SENIOR",
+    "Turkish": "kıdemli"
+  },
+  {
+    "English": "SENSE",
+    "Turkish": "anlam"
+  },
+  {
+    "English": "SERIES",
+    "Turkish": "dizi"
+  },
+  {
+    "English": "SERIOUS",
+    "Turkish": "ciddi"
+  },
+  {
+    "English": "SERVE",
+    "Turkish": "servis"
+  },
+  {
+    "English": "SERVICE",
+    "Turkish": "hizmet"
+  },
+  {
+    "English": "SET",
+    "Turkish": "ayarlamak"
+  },
+  {
+    "English": "SEVEN",
+    "Turkish": "yedi"
+  },
+  {
+    "English": "SEVERAL",
+    "Turkish": "birkaç"
+  },
+  {
+    "English": "SHAKE",
+    "Turkish": "sallamak"
+  },
+  {
+    "English": "SHARE",
+    "Turkish": "paylaşmak"
+  },
+  {
+    "English": "SHE",
+    "Turkish": "o"
+  },
+  {
+    "English": "SHOOT",
+    "Turkish": "şut çekmek"
+  },
+  {
+    "English": "SHORT",
+    "Turkish": "kısa"
+  },
+  {
+    "English": "SHOT",
+    "Turkish": "atış"
+  },
+  {
+    "English": "SHOULD",
+    "Turkish": "meli"
+  },
+  {
+    "English": "SHOULDER",
+    "Turkish": "omuz"
+  },
+  {
+    "English": "SHOW",
+    "Turkish": "göstermek"
+  },
+  {
+    "English": "SIDE",
+    "Turkish": "yan"
+  },
+  {
+    "English": "SIGN",
+    "Turkish": "işaret"
+  },
+  {
+    "English": "SIGNIFICANT",
+    "Turkish": "önemli"
+  },
+  {
+    "English": "SIMILAR",
+    "Turkish": "benzer"
+  },
+  {
+    "English": "SIMPLE",
+    "Turkish": "basit"
+  },
+  {
+    "English": "SIMPLY",
+    "Turkish": "basitçe"
+  },
+  {
+    "English": "SINCE",
+    "Turkish": "dan beri"
+  },
+  {
+    "English": "SING",
+    "Turkish": "şarkı söyle"
+  },
+  {
+    "English": "SINGLE",
+    "Turkish": "tek"
+  },
+  {
+    "English": "SISTER",
+    "Turkish": "kız kardeş"
+  },
+  {
+    "English": "SIT",
+    "Turkish": "oturmak"
+  },
+  {
+    "English": "SITE",
+    "Turkish": "yer"
+  },
+  {
+    "English": "SITUATION",
+    "Turkish": "durum"
+  },
+  {
+    "English": "SIX",
+    "Turkish": "altı"
+  },
+  {
+    "English": "SIZE",
+    "Turkish": "boyut"
+  },
+  {
+    "English": "SKILL",
+    "Turkish": "beceri"
+  },
+  {
+    "English": "SKIN",
+    "Turkish": "cilt"
+  },
+  {
+    "English": "SMALL",
+    "Turkish": "küçük"
+  },
+  {
+    "English": "SMILE",
+    "Turkish": "gülümseme"
+  },
+  {
+    "English": "SO",
+    "Turkish": "yani"
+  },
+  {
+    "English": "SOCIAL",
+    "Turkish": "sosyal"
+  },
+  {
+    "English": "SOCIETY",
+    "Turkish": "toplum"
+  },
+  {
+    "English": "SOLDIER",
+    "Turkish": "asker"
+  },
+  {
+    "English": "SOME",
+    "Turkish": "bazı"
+  },
+  {
+    "English": "SOMEBODY",
+    "Turkish": "birileri"
+  },
+  {
+    "English": "SOMEONE",
+    "Turkish": "birisi"
+  },
+  {
+    "English": "SOMETHING",
+    "Turkish": "bir şey"
+  },
+  {
+    "English": "SOMETIMES",
+    "Turkish": "ara sıra"
+  },
+  {
+    "English": "SON",
+    "Turkish": "oğul"
+  },
+  {
+    "English": "SONG",
+    "Turkish": "şarkı"
+  },
+  {
+    "English": "SOON",
+    "Turkish": "yakında"
+  },
+  {
+    "English": "SORT",
+    "Turkish": "çeşit"
+  },
+  {
+    "English": "SOUND",
+    "Turkish": "ses"
+  },
+  {
+    "English": "SOURCE",
+    "Turkish": "kaynak"
+  },
+  {
+    "English": "SOUTH",
+    "Turkish": "güney"
+  },
+  {
+    "English": "SOUTHERN",
+    "Turkish": "güney"
+  },
+  {
+    "English": "SPACE",
+    "Turkish": "boşluk"
+  },
+  {
+    "English": "SPEAK",
+    "Turkish": "konuşmak"
+  },
+  {
+    "English": "SPECIAL",
+    "Turkish": "özel"
+  },
+  {
+    "English": "SPECIFIC",
+    "Turkish": "özel"
+  },
+  {
+    "English": "SPEECH",
+    "Turkish": "konuşma"
+  },
+  {
+    "English": "SPEND",
+    "Turkish": "harcamak"
+  },
+  {
+    "English": "SPORT",
+    "Turkish": "spor"
+  },
+  {
+    "English": "SPRING",
+    "Turkish": "bahar"
+  },
+  {
+    "English": "STAFF",
+    "Turkish": "personel"
+  },
+  {
+    "English": "STAGE",
+    "Turkish": "sahne"
+  },
+  {
+    "English": "STAND",
+    "Turkish": "durmak"
+  },
+  {
+    "English": "STANDARD",
+    "Turkish": "standart"
+  },
+  {
+    "English": "STAR",
+    "Turkish": "star"
+  },
+  {
+    "English": "START",
+    "Turkish": "başlama"
+  },
+  {
+    "English": "STATE",
+    "Turkish": "belirtmek"
+  },
+  {
+    "English": "STATEMENT",
+    "Turkish": "beyan"
+  },
+  {
+    "English": "STATION",
+    "Turkish": "ıstasyon"
+  },
+  {
+    "English": "STAY",
+    "Turkish": "kalmak"
+  },
+  {
+    "English": "STEP",
+    "Turkish": "adım"
+  },
+  {
+    "English": "STILL",
+    "Turkish": "hala"
+  },
+  {
+    "English": "STOCK",
+    "Turkish": "stok"
+  },
+  {
+    "English": "STOP",
+    "Turkish": "dur"
+  },
+  {
+    "English": "STORE",
+    "Turkish": "mağaza"
+  },
+  {
+    "English": "STORY",
+    "Turkish": "öykü"
+  },
+  {
+    "English": "STRATEGY",
+    "Turkish": "strateji"
+  },
+  {
+    "English": "STREET",
+    "Turkish": "sokak"
+  },
+  {
+    "English": "STRONG",
+    "Turkish": "güçlü"
+  },
+  {
+    "English": "STRUCTURE",
+    "Turkish": "yapı"
+  },
+  {
+    "English": "STUDENT",
+    "Turkish": "öğrenci"
+  },
+  {
+    "English": "STUDY",
+    "Turkish": "ders çalışma"
+  },
+  {
+    "English": "STUFF",
+    "Turkish": "şey"
+  },
+  {
+    "English": "STYLE",
+    "Turkish": "stil"
+  },
+  {
+    "English": "SUBJECT",
+    "Turkish": "konu"
+  },
+  {
+    "English": "SUCCESS",
+    "Turkish": "başarı"
+  },
+  {
+    "English": "SUCCESSFUL",
+    "Turkish": "başarılı"
+  },
+  {
+    "English": "SUCH",
+    "Turkish": "böyle"
+  },
+  {
+    "English": "SUDDENLY",
+    "Turkish": "aniden"
+  },
+  {
+    "English": "SUFFER",
+    "Turkish": "acı çekmek"
+  },
+  {
+    "English": "SUGGEST",
+    "Turkish": "önermek"
+  },
+  {
+    "English": "SUMMER",
+    "Turkish": "yaz"
+  },
+  {
+    "English": "SUPPORT",
+    "Turkish": "destek"
+  },
+  {
+    "English": "SURE",
+    "Turkish": "emin"
+  },
+  {
+    "English": "SURFACE",
+    "Turkish": "yüzey"
+  },
+  {
+    "English": "SYSTEM",
+    "Turkish": "sistem"
+  },
+  {
+    "English": "TABLE",
+    "Turkish": "tablo"
+  },
+  {
+    "English": "TAKE",
+    "Turkish": "almak"
+  },
+  {
+    "English": "TALK",
+    "Turkish": "konuşmak"
+  },
+  {
+    "English": "TASK",
+    "Turkish": "görev"
+  },
+  {
+    "English": "TAX",
+    "Turkish": "vergi"
+  },
+  {
+    "English": "TEACH",
+    "Turkish": "öğretmek"
+  },
+  {
+    "English": "TEACHER",
+    "Turkish": "öğretmen"
+  },
+  {
+    "English": "TEAM",
+    "Turkish": "takım"
+  },
+  {
+    "English": "TECHNOLOGY",
+    "Turkish": "teknoloji"
+  },
+  {
+    "English": "TELEVISION",
+    "Turkish": "televizyon"
+  },
+  {
+    "English": "TELL",
+    "Turkish": "söylemek"
+  },
+  {
+    "English": "TEN",
+    "Turkish": "on"
+  },
+  {
+    "English": "TEND",
+    "Turkish": "eğilmek"
+  },
+  {
+    "English": "TERM",
+    "Turkish": "terim"
+  },
+  {
+    "English": "TEST",
+    "Turkish": "test"
+  },
+  {
+    "English": "THANK",
+    "Turkish": "teşekkür"
+  },
+  {
+    "English": "THAT",
+    "Turkish": "o"
+  },
+  {
+    "English": "THEIR",
+    "Turkish": "onların"
+  },
+  {
+    "English": "THEM",
+    "Turkish": "onları"
+  },
+  {
+    "English": "THEMSELVES",
+    "Turkish": "kendilerini"
+  },
+  {
+    "English": "THEN",
+    "Turkish": "sonra"
+  },
+  {
+    "English": "THEORY",
+    "Turkish": "teori"
+  },
+  {
+    "English": "THERE",
+    "Turkish": "orada"
+  },
+  {
+    "English": "THESE",
+    "Turkish": "bunlar"
+  },
+  {
+    "English": "THEY",
+    "Turkish": "onlar"
+  },
+  {
+    "English": "THING",
+    "Turkish": "şey"
+  },
+  {
+    "English": "THINK",
+    "Turkish": "düşünmek"
+  },
+  {
+    "English": "THIRD",
+    "Turkish": "üçüncü"
+  },
+  {
+    "English": "THIS",
+    "Turkish": "bu"
+  },
+  {
+    "English": "THOSE",
+    "Turkish": "bunlar"
+  },
+  {
+    "English": "THOUGH",
+    "Turkish": "olsa da"
+  },
+  {
+    "English": "THOUGHT",
+    "Turkish": "düşündü"
+  },
+  {
+    "English": "THOUSAND",
+    "Turkish": "bin"
+  },
+  {
+    "English": "THREAT",
+    "Turkish": "tehdit"
+  },
+  {
+    "English": "THREE",
+    "Turkish": "üç"
+  },
+  {
+    "English": "THROUGH",
+    "Turkish": "vasitasiyla"
+  },
+  {
+    "English": "THROUGHOUT",
+    "Turkish": "boyunca"
+  },
+  {
+    "English": "THROW",
+    "Turkish": "atmak"
+  },
+  {
+    "English": "THUS",
+    "Turkish": "böylece"
+  },
+  {
+    "English": "TIME",
+    "Turkish": "zaman"
+  },
+  {
+    "English": "TO",
+    "Turkish": "ıçin"
+  },
+  {
+    "English": "TODAY",
+    "Turkish": "bugün"
+  },
+  {
+    "English": "TOGETHER",
+    "Turkish": "birlikte"
+  },
+  {
+    "English": "TONIGHT",
+    "Turkish": "bu gece"
+  },
+  {
+    "English": "TOO",
+    "Turkish": "çok"
+  },
+  {
+    "English": "TOP",
+    "Turkish": "üst"
+  },
+  {
+    "English": "TOTAL",
+    "Turkish": "genel toplam"
+  },
+  {
+    "English": "TOUGH",
+    "Turkish": "sert"
+  },
+  {
+    "English": "TOWARD",
+    "Turkish": "doğru"
+  },
+  {
+    "English": "TOWN",
+    "Turkish": "kasaba"
+  },
+  {
+    "English": "TRADE",
+    "Turkish": "ticaret"
+  },
+  {
+    "English": "TRADITIONAL",
+    "Turkish": "geleneksel"
+  },
+  {
+    "English": "TRAINING",
+    "Turkish": "eğitim"
+  },
+  {
+    "English": "TRAVEL",
+    "Turkish": "seyahat"
+  },
+  {
+    "English": "TREAT",
+    "Turkish": "tedavi etmek"
+  },
+  {
+    "English": "TREATMENT",
+    "Turkish": "tedavi"
+  },
+  {
+    "English": "TREE",
+    "Turkish": "ağaç"
+  },
+  {
+    "English": "TRIAL",
+    "Turkish": "deneme"
+  },
+  {
+    "English": "TRIP",
+    "Turkish": "yolculuk"
+  },
+  {
+    "English": "TROUBLE",
+    "Turkish": "sorun"
+  },
+  {
+    "English": "TRUE",
+    "Turkish": "doğru"
+  },
+  {
+    "English": "TRUTH",
+    "Turkish": "hakikat"
+  },
+  {
+    "English": "TRY",
+    "Turkish": "denemek"
+  },
+  {
+    "English": "TURN",
+    "Turkish": "çevirmek"
+  },
+  {
+    "English": "TV",
+    "Turkish": "televizyon"
+  },
+  {
+    "English": "TWO",
+    "Turkish": "iki"
+  },
+  {
+    "English": "TYPE",
+    "Turkish": "yazın"
+  },
+  {
+    "English": "UNDER",
+    "Turkish": "altında"
+  },
+  {
+    "English": "UNDERSTAND",
+    "Turkish": "anlama"
+  },
+  {
+    "English": "UNIT",
+    "Turkish": "ünite"
+  },
+  {
+    "English": "UNTIL",
+    "Turkish": "a kadar"
+  },
+  {
+    "English": "UP",
+    "Turkish": "yukarı"
+  },
+  {
+    "English": "UPON",
+    "Turkish": "üzerinde"
+  },
+  {
+    "English": "US",
+    "Turkish": "bize"
+  },
+  {
+    "English": "USE",
+    "Turkish": "kullanmak"
+  },
+  {
+    "English": "USUALLY",
+    "Turkish": "genellikle"
+  },
+  {
+    "English": "VALUE",
+    "Turkish": "değer"
+  },
+  {
+    "English": "VARIOUS",
+    "Turkish": "çeşitli"
+  },
+  {
+    "English": "VERY",
+    "Turkish": "çok"
+  },
+  {
+    "English": "VICTIM",
+    "Turkish": "kurban"
+  },
+  {
+    "English": "VIEW",
+    "Turkish": "görünüm"
+  },
+  {
+    "English": "VIOLENCE",
+    "Turkish": "şiddet"
+  },
+  {
+    "English": "VISIT",
+    "Turkish": "ziyaret etmek"
+  },
+  {
+    "English": "VOICE",
+    "Turkish": "ses"
+  },
+  {
+    "English": "VOTE",
+    "Turkish": "oy"
+  },
+  {
+    "English": "WAIT",
+    "Turkish": "beklemek"
+  },
+  {
+    "English": "WALK",
+    "Turkish": "yürümek"
+  },
+  {
+    "English": "WALL",
+    "Turkish": "duvar"
+  },
+  {
+    "English": "WANT",
+    "Turkish": "istemek"
+  },
+  {
+    "English": "WAR",
+    "Turkish": "savaş"
+  },
+  {
+    "English": "WATCH",
+    "Turkish": "izlemek"
+  },
+  {
+    "English": "WATER",
+    "Turkish": "su"
+  },
+  {
+    "English": "WAY",
+    "Turkish": "yol"
+  },
+  {
+    "English": "WE",
+    "Turkish": "biz"
+  },
+  {
+    "English": "WEAPON",
+    "Turkish": "silah"
+  },
+  {
+    "English": "WEAR",
+    "Turkish": "giyinmek"
+  },
+  {
+    "English": "WEEK",
+    "Turkish": "hafta"
+  },
+  {
+    "English": "WEIGHT",
+    "Turkish": "ağırlık"
+  },
+  {
+    "English": "WELL",
+    "Turkish": "iyi"
+  },
+  {
+    "English": "WEST",
+    "Turkish": "batısında"
+  },
+  {
+    "English": "WESTERN",
+    "Turkish": "batıda"
+  },
+  {
+    "English": "WHAT",
+    "Turkish": "ne"
+  },
+  {
+    "English": "WHATEVER",
+    "Turkish": "her neyse"
+  },
+  {
+    "English": "WHEN",
+    "Turkish": "ne zaman"
+  },
+  {
+    "English": "WHERE",
+    "Turkish": "nerede"
+  },
+  {
+    "English": "WHICH",
+    "Turkish": "hangi"
+  },
+  {
+    "English": "WHILE",
+    "Turkish": "iken"
+  },
+  {
+    "English": "WHITE",
+    "Turkish": "beyaz"
+  },
+  {
+    "English": "WHO",
+    "Turkish": "kim"
+  },
+  {
+    "English": "WHOM",
+    "Turkish": "kime"
+  },
+  {
+    "English": "WHOSE",
+    "Turkish": "kimin"
+  },
+  {
+    "English": "WHY",
+    "Turkish": "neden"
+  },
+  {
+    "English": "WIDE",
+    "Turkish": "geniş"
+  },
+  {
+    "English": "WIFE",
+    "Turkish": "kadın eş"
+  },
+  {
+    "English": "WIN",
+    "Turkish": "kazanmak"
+  },
+  {
+    "English": "WIND",
+    "Turkish": "rüzgar"
+  },
+  {
+    "English": "WINDOW",
+    "Turkish": "pencere"
+  },
+  {
+    "English": "WISH",
+    "Turkish": "dilek"
+  },
+  {
+    "English": "WITH",
+    "Turkish": "ile"
+  },
+  {
+    "English": "WITHIN",
+    "Turkish": "ıçinde"
+  },
+  {
+    "English": "WITHOUT",
+    "Turkish": "olmadan"
+  },
+  {
+    "English": "WOMAN",
+    "Turkish": "kadın"
+  },
+  {
+    "English": "WONDER",
+    "Turkish": "merak etmek"
+  },
+  {
+    "English": "WORD",
+    "Turkish": "kelime"
+  },
+  {
+    "English": "WORK",
+    "Turkish": "iş"
+  },
+  {
+    "English": "WORKER",
+    "Turkish": "işçi"
+  },
+  {
+    "English": "WORLD",
+    "Turkish": "dünya"
+  },
+  {
+    "English": "WORRY",
+    "Turkish": "endişelenmek"
+  },
+  {
+    "English": "WOULD",
+    "Turkish": "olur mu"
+  },
+  {
+    "English": "WRITE",
+    "Turkish": "yazmak"
+  },
+  {
+    "English": "WRITER",
+    "Turkish": "yazar"
+  },
+  {
+    "English": "WRONG",
+    "Turkish": "yanlış"
+  },
+  {
+    "English": "YARD",
+    "Turkish": "avlu"
+  },
+  {
+    "English": "YEAH",
+    "Turkish": "evet"
+  },
+  {
+    "English": "YEAR",
+    "Turkish": "yıl"
+  },
+  {
+    "English": "YES",
+    "Turkish": "evet"
+  },
+  {
+    "English": "YET",
+    "Turkish": "henüz"
+  },
+  {
+    "English": "YOU",
+    "Turkish": "sen"
+  },
+  {
+    "English": "YOUNG",
+    "Turkish": "genç"
+  },
+  {
+    "English": "YOUR",
+    "Turkish": "senin"
+  },
+  {
+    "English": "YOURSELF",
+    "Turkish": "kendin"
+  }
+]

@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/layout_background"
+    tools:context=".View.WordFragment">
+
+
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/infoCardView"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:cardBackgroundColor="@color/blue"
+        app:cardCornerRadius="32dp"
+        app:cardElevation="4dp"
+        app:layout_constraintBottom_toTopOf="@+id/bottomGuidelineCardView"
+        app:layout_constraintEnd_toStartOf="@+id/rightGuidelineCardView"
+        app:layout_constraintStart_toStartOf="@+id/leftGuidelineCardView"
+        app:layout_constraintTop_toTopOf="@+id/topGuidelineCardView"
+        android:visibility="gone" >
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <TextView
+                android:id="@+id/learnedAllWordsTextView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:text="@string/notFoundNotLearnedWord"
+                android:textColor="#00FF00"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/learnedNothingTextView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:text="@string/notFoundLearnedWord"
+                android:textColor="#FF0000"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                android:visibility="gone" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </androidx.cardview.widget.CardView>
+
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardView"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:cardBackgroundColor="@color/blue"
+        app:cardCornerRadius="32dp"
+        app:cardElevation="4dp"
+        app:layout_constraintBottom_toTopOf="@+id/bottomGuidelineCardView"
+        app:layout_constraintEnd_toStartOf="@+id/rightGuidelineCardView"
+        app:layout_constraintStart_toStartOf="@+id/leftGuidelineCardView"
+        app:layout_constraintTop_toTopOf="@+id/topGuidelineCardView">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <TextView
+                android:id="@+id/englishWordTextView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                tools:text="English Word"
+                android:textColor="@color/white"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/turkishWordTextView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                tools:text="Turkish Word"
+                android:textColor="@color/white"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                android:visibility="gone" />
+
+            <ImageView
+                android:id="@+id/cancelButton"
+                android:visibility="gone"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:src="@drawable/ic_cancel"
+                android:clickable="true"
+                app:layout_constraintBottom_toTopOf="@+id/bottomGuidelineLearnedOrNotButton"
+                app:layout_constraintEnd_toStartOf="@+id/rightGuidelineLearnedOrNotButton"
+                app:layout_constraintStart_toStartOf="@+id/leftGuidelineLearnedOrNotButton"
+                app:layout_constraintTop_toTopOf="@+id/topGuidelineLearnedOrNotButton" />
+
+            <ImageView
+                android:id="@+id/doneButton"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:src="@drawable/ic_done"
+                android:clickable="true"
+                app:layout_constraintBottom_toTopOf="@+id/bottomGuidelineLearnedOrNotButton"
+                app:layout_constraintEnd_toStartOf="@+id/rightGuidelineLearnedOrNotButton"
+                app:layout_constraintStart_toStartOf="@+id/leftGuidelineLearnedOrNotButton"
+                app:layout_constraintTop_toTopOf="@+id/topGuidelineLearnedOrNotButton" />
+
+            <ImageView
+                android:id="@+id/refreshButton"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:src="@drawable/ic_refresh"
+                android:clickable="true"
+                app:layout_constraintBottom_toTopOf="@+id/bottomGuidelineChangeButton"
+                app:layout_constraintEnd_toStartOf="@+id/rightGuidelineChangeButton"
+                app:layout_constraintStart_toStartOf="@+id/leftGuidelineChangeButton"
+                app:layout_constraintTop_toTopOf="@+id/topGuidelineChangeButton" />
+
+            <androidx.constraintlayout.widget.Guideline
+                android:id="@+id/topGuidelineLearnedOrNotButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                app:layout_constraintGuide_percent="0.75" />
+
+            <androidx.constraintlayout.widget.Guideline
+                android:id="@+id/bottomGuidelineLearnedOrNotButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                app:layout_constraintGuide_percent="0.9" />
+
+            <androidx.constraintlayout.widget.Guideline
+                android:id="@+id/leftGuidelineLearnedOrNotButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                app:layout_constraintGuide_percent="0.7" />
+
+            <androidx.constraintlayout.widget.Guideline
+                android:id="@+id/rightGuidelineLearnedOrNotButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                app:layout_constraintGuide_percent="0.9" />
+
+            <androidx.constraintlayout.widget.Guideline
+                android:id="@+id/topGuidelineChangeButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                app:layout_constraintGuide_percent="0.75" />
+
+            <androidx.constraintlayout.widget.Guideline
+                android:id="@+id/bottomGuidelineChangeButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                app:layout_constraintGuide_percent="0.9" />
+
+            <androidx.constraintlayout.widget.Guideline
+                android:id="@+id/leftGuidelineChangeButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                app:layout_constraintGuide_percent="0.1" />
+
+            <androidx.constraintlayout.widget.Guideline
+                android:id="@+id/rightGuidelineChangeButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                app:layout_constraintGuide_percent="0.3" />
+
+
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </androidx.cardview.widget.CardView>
+
+
+
+
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/leftGuidelineCardView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.15" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/rightGuidelineCardView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.85" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/topGuidelineCardView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.1" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/bottomGuidelineCardView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.7" />
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
