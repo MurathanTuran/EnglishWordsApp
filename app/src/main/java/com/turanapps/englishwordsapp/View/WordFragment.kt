@@ -22,7 +22,6 @@ class WordFragment : Fragment() {
 
     private var isEnglishVisible = true
 
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
@@ -111,7 +110,6 @@ class WordFragment : Fragment() {
         })
 
     }
-
 
     private fun refreshButtonClicked(){
         binding.refreshButton.setOnClickListener {

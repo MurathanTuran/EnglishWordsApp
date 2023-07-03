@@ -45,8 +45,6 @@ class RecyclerAdapterListWords(val wordsList: List<Word>): RecyclerView.Adapter<
 
         holder.binding.englishWordTextViewRecyclerRow.text = wordsList[position].english
 
-
-
         if (position == selectedPosition) {
             holder.binding.turkishWordTextViewRecyclerRow.visibility = View.VISIBLE
             holder.binding.turkishWordTextViewRecyclerRow.text = wordsList[position].turkish

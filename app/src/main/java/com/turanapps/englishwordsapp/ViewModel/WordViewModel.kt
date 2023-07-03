@@ -3,12 +3,11 @@ package com.turanapps.englishwordsapp.ViewModel
 import android.app.Application
 import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.MutableLiveData
+import androidx.lifecycle.viewModelScope
 import com.turanapps.englishwordsapp.Errors.Error
 import com.turanapps.englishwordsapp.Model.Word
 import com.turanapps.englishwordsapp.RoomDB.EnglishWordsDatabase
-import kotlinx.coroutines.Dispatchers
-import kotlinx.coroutines.async
-import kotlinx.coroutines.runBlocking
+import kotlinx.coroutines.launch
 
 class WordViewModel(application: Application) : AndroidViewModel(application){
 
@@ -20,14 +19,12 @@ class WordViewModel(application: Application) : AndroidViewModel(application){
     private val readFromRoomDBError = "Error While Reading From Room Database"
     val readFromRoomDBErrorEntity = Error(readFromRoomDBErrorB, readFromRoomDBError)
 
-
     private var updateWordErrorB = MutableLiveData<Boolean?>()
     private val updateWordError = "Error While Updating to Room Database"
     val updateWordErrorEntity = Error(updateWordErrorB, updateWordError)
 
-
     fun getDataFromRoomDB(forWhat: String){
-        runBlocking {
+        viewModelScope.launch {
             try {
                 if(forWhat.equals("learnedWord")){
                     word.value = appDatabase.englishWordsDao().getRandomLearnedWord()
@@ -42,19 +39,15 @@ class WordViewModel(application: Application) : AndroidViewModel(application){
 
     }
 
-    fun updateWord(word: Word, forWhat: String){
-        try {
-            runBlocking {
-                val deferredResult = async(Dispatchers.IO) {
-                    appDatabase.englishWordsDao().updateWord(word)
-                }
-                deferredResult.await()
+    fun updateWord(word: Word, forWhat: String) {
+        viewModelScope.launch {
+            try {
+                appDatabase.englishWordsDao().updateWord(word)
+                getDataFromRoomDB(forWhat)
+            } catch (e: Exception) {
+                updateWordErrorB.value = true
             }
-            getDataFromRoomDB(forWhat)
-        }catch (e: Exception){
-            updateWordErrorB.value = true
         }
     }
-
 
 }

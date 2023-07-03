@@ -8,6 +8,7 @@ import com.turanapps.englishwordsapp.Model.Word
 
 @Dao
 interface EnglishWordsDao {
+
     @Insert
     suspend fun insertAllWords(words: List<Word>)
 

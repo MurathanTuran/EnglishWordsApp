@@ -121,7 +121,7 @@
   },
   {
     "English": "ALL",
-    "Turkish": "herşey, tüm, bütün"
+    "Turkish": "her şey, tüm, bütün"
   },
   {
     "English": "ALLOW",
@@ -197,7 +197,7 @@
   },
   {
     "English": "ANYTHING",
-    "Turkish": "bir şeyi herhangi bir şey, hiçbir şey"
+    "Turkish": "bir şey, herhangi bir şey, hiçbir şey"
   },
   {
     "English": "APPEAR",
@@ -253,7 +253,7 @@
   },
   {
     "English": "ASSUME",
-    "Turkish": "varsaymak, farzetmek"
+    "Turkish": "varsaymak, farz etmek"
   },
   {
     "English": "ATTACK",
@@ -1309,7 +1309,7 @@
   },
   {
     "English": "FORWARD",
-    "Turkish": "ıleri"
+    "Turkish": "ileri"
   },
   {
     "English": "FOUR",
@@ -1597,7 +1597,7 @@
   },
   {
     "English": "IMAGE",
-    "Turkish": "ımge"
+    "Turkish": "görüntü"
   },
   {
     "English": "IMAGINE",
@@ -1653,7 +1653,7 @@
   },
   {
     "English": "INSIDE",
-    "Turkish": "ıçeride"
+    "Turkish": "içeride"
   },
   {
     "English": "INSTEAD",
@@ -1681,7 +1681,7 @@
   },
   {
     "English": "INTO",
-    "Turkish": "ıçine"
+    "Turkish": "içine"
   },
   {
     "English": "INVESTMENT",
@@ -1709,7 +1709,7 @@
   },
   {
     "English": "ITSELF",
-    "Turkish": "kendis"
+    "Turkish": "kendisi"
   },
   {
     "English": "JOB",
@@ -1833,7 +1833,7 @@
   },
   {
     "English": "LET",
-    "Turkish": "ızin vermek"
+    "Turkish": "izin vermek"
   },
   {
     "English": "LETTER",
@@ -1985,7 +1985,7 @@
   },
   {
     "English": "ME",
-    "Turkish": "ben mi"
+    "Turkish": "ben"
   },
   {
     "English": "MEAN",
@@ -2145,7 +2145,7 @@
   },
   {
     "English": "NAME",
-    "Turkish": "ısim"
+    "Turkish": "isim"
   },
   {
     "English": "NATION",
@@ -2177,7 +2177,7 @@
   },
   {
     "English": "NEED",
-    "Turkish": "ıhtiyaç"
+    "Turkish": "ihtiyaç"
   },
   {
     "English": "NETWORK",
@@ -2213,7 +2213,7 @@
   },
   {
     "English": "NO",
-    "Turkish": "yok hayır"
+    "Turkish": "hayır"
   },
   {
     "English": "NONE",
@@ -2605,7 +2605,7 @@
   },
   {
     "English": "PROCESS",
-    "Turkish": "ışlem"
+    "Turkish": "işlem"
   },
   {
     "English": "PRODUCE",
@@ -2665,7 +2665,7 @@
   },
   {
     "English": "PUSH",
-    "Turkish": "ıtmek"
+    "Turkish": "itmek"
   },
   {
     "English": "PUT",
@@ -2781,11 +2781,11 @@
   },
   {
     "English": "RELATE",
-    "Turkish": "ılişki kurmak"
+    "Turkish": "ilişki kurmak"
   },
   {
     "English": "RELATIONSHIP",
-    "Turkish": "ılişki"
+    "Turkish": "ilişki"
   },
   {
     "English": "RELIGIOUS",
@@ -3077,7 +3077,7 @@
   },
   {
     "English": "SING",
-    "Turkish": "şarkı söyle"
+    "Turkish": "şarkı söylemek"
   },
   {
     "English": "SINGLE",
@@ -3509,7 +3509,7 @@
   },
   {
     "English": "THROUGH",
-    "Turkish": "vasitasiyla"
+    "Turkish": "vasıtasıyla"
   },
   {
     "English": "THROUGHOUT",
@@ -3529,7 +3529,7 @@
   },
   {
     "English": "TO",
-    "Turkish": "ıçin"
+    "Turkish": "için"
   },
   {
     "English": "TODAY",
@@ -3845,7 +3845,7 @@
   },
   {
     "English": "WITHIN",
-    "Turkish": "ıçinde"
+    "Turkish": "içinde"
   },
   {
     "English": "WITHOUT",

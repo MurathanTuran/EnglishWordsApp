@@ -30,7 +30,6 @@ class LauncherViewModel(application: Application): AndroidViewModel(application)
     private val writeToRoomDBError = "Error While Writing to Room Database"
     val writeToRoomDBErrorEntity = Error(writeToRoomDBErrorB, writeToRoomDBError)
 
-
     fun whatToDo(){
         if(isFirstTimeLaunch()){
             val words = readJsonFromAssets(inputStream)
@@ -68,8 +67,6 @@ class LauncherViewModel(application: Application): AndroidViewModel(application)
 
     }
 
-
-
     private fun isFirstTimeLaunch(): Boolean {
         val isFirstTime = sharedPref.getBoolean("isFirstTimeLaunch", true)
 
@@ -80,8 +77,6 @@ class LauncherViewModel(application: Application): AndroidViewModel(application)
         }
         return isFirstTime
     }
-
-
 
     private fun readJsonFromAssets(inputStream: InputStream): List<Word> {
         //val jsonContent = StringBuilder()

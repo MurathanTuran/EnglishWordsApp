@@ -13,7 +13,7 @@
         <entry key="..\:/AndroidStudioProjects/EnglishWordsApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/AndroidStudioProjects/EnglishWordsApp/app/src/main/res/layout/fragment_launcher.xml" value="0.1" />
         <entry key="..\:/AndroidStudioProjects/EnglishWordsApp/app/src/main/res/layout/fragment_list_words.xml" value="0.1" />
-        <entry key="..\:/AndroidStudioProjects/EnglishWordsApp/app/src/main/res/layout/fragment_main.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/EnglishWordsApp/app/src/main/res/layout/fragment_main.xml" value="0.25" />
         <entry key="..\:/AndroidStudioProjects/EnglishWordsApp/app/src/main/res/layout/fragment_word.xml" value="0.1" />
         <entry key="..\:/AndroidStudioProjects/EnglishWordsApp/app/src/main/res/layout/list_words_recycler_row.xml" value="0.13043478260869565" />
       </map>
@@ -24,5 +24,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.18" />
+      </ProjectState>
+    </option>
   </component>
 </project>
